@@ -31,11 +31,9 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/Hemanath08/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151807176/08b67cc4-8340-4f0e-9e32-ec698ba211bf)
-
+![image](https://github.com/Hemanath08/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151807176/dcaa65c7-9874-42a0-85b0-975be98b2335)
 ### Output:
-![image](https://github.com/Hemanath08/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151807176/16a8e0ca-322d-4c6c-8ef9-4e08948210f4)
-
+![image](https://github.com/Hemanath08/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/151807176/94bdc66d-aec2-4bee-afdd-67cc467425c2)
 
 ### Name: K.Hemanath
 ### Register Number: 212223100012
